@@ -7,6 +7,10 @@ pasjdpoajdspoasjdpoahjspodjapsdjpaosjdpajd
 quiero trabajar en la rama testing
 ffffffffffffffffffffffffffffffffff
 
+
 estoy modificando la rama master para que se genere un conflicto
+
+Estoy en testing
+
 
 
